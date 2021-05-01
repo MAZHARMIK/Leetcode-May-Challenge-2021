@@ -12,8 +12,8 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/may-le
 		</thead>
 		<tbody>
 			<tr>
-			  <td>N/A</td>
-        <td><a href="N/A"><img src="https://i2.wp.com/mgt.sjp.ac.lk/itc/wp-content/uploads/2018/06/coming-soon.png" width="400" height="240"></a>
+			  <td>Prefix and Suffix Search</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Trie/Prefix%20and%20Suffix%20Search"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Trie_example.svg/1200px-Trie_example.svg.png" width="400" height="240"></a>
 			  </td>
 			</tr>
 			</tr>
