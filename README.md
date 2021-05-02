@@ -12,10 +12,14 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/may-le
 		</thead>
 		<tbody>
 			<tr>
+			  <td>Number of Connected Components in an Undirected Graph</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Number%20of%20Connected%20Components%20in%20an%20Undirected%20Graph"><img src="https://i.ytimg.com/vi/ibjEGG7ylHk/maxresdefault.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
 			  <td>Prefix and Suffix Search</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Trie/Prefix%20and%20Suffix%20Search"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Trie_example.svg/1200px-Trie_example.svg.png" width="400" height="240"></a>
 			  </td>
-			</tr>
 			</tr>
 		</tbody>
 </table>
