@@ -21,5 +21,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/may-le
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Trie/Prefix%20and%20Suffix%20Search"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Trie_example.svg/1200px-Trie_example.svg.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Course Schedule III</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Heap/Course%20Schedule%20III"><img src="https://www.poplarvilleschools.org/wp-content/uploads/2017/07/schedule.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
