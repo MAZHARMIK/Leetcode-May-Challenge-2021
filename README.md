@@ -26,5 +26,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/may-le
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Heap/Course%20Schedule%20III"><img src="https://www.poplarvilleschools.org/wp-content/uploads/2017/07/schedule.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Running Sum of 1d Array</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-May-Challenge-2021/blob/main/Running%20Sum%20of%201d%20Array"><img src="https://islamicvoice.com/wp-content/uploads/2014/10/boy-running.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
