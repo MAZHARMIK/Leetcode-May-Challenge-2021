@@ -31,5 +31,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/may-le
         <td><a href="https://github.com/MAZHARMIK/Leetcode-May-Challenge-2021/blob/main/Running%20Sum%20of%201d%20Array"><img src="https://islamicvoice.com/wp-content/uploads/2014/10/boy-running.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Non-decreasing Array</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Non-decreasing_Array.cpp"><img src="https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/12634768-de83-406e-abb3-94ca67e03410.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
