@@ -42,7 +42,7 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/may-le
 			  </td>
 			</tr>
 			<tr>
-			  <td>Jump Game II</td>
+			  <td>Convert Sorted List to Binary Search Tree</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Convert%20Sorted%20List%20to%20Binary%20Search%20Tree"><img src="https://static.packt-cdn.com/products/9781789801736/graphics/C09581_08_02.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
