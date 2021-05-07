@@ -46,5 +46,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/may-le
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Convert%20Sorted%20List%20to%20Binary%20Search%20Tree"><img src="https://static.packt-cdn.com/products/9781789801736/graphics/C09581_08_02.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Delete Operation for Two Strings</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Delete_Operation_for_Two_Strings.cpp"><img src="https://image.slideserve.com/541246/dynamic-programming-l.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
