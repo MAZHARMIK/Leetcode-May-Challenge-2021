@@ -52,6 +52,11 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/may-le
 			  </td>
 			</tr>
 			<tr>
+			  <td>Put Boxes Into the Warehouse I</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Put_Boxes_Into_the_Warehouse_I.cpp"><img src="https://bridgetowntrucking.com/wp-content/uploads/2019/12/Customs-bonded-warehouse.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
 			  <td>Super Palindromes</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Super_Palindromes.cpp"><img src="https://www.educationworld.in/wp-content/uploads/2018/10/Palindrome.jpg" width="400" height="240"></a>
 			  </td>
