@@ -61,5 +61,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/may-le
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Super_Palindromes.cpp"><img src="https://www.educationworld.in/wp-content/uploads/2018/10/Palindrome.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Construct Target Array With Multiple Sums</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Heap/Construct_Target_Array_With_Multiple_Sums.cpp"><img src="https://i.ytimg.com/vi/1Cq8J5FMOHM/maxresdefault.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
