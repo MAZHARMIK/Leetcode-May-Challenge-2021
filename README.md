@@ -66,5 +66,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/may-le
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Heap/Construct_Target_Array_With_Multiple_Sums.cpp"><img src="https://i.ytimg.com/vi/1Cq8J5FMOHM/maxresdefault.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Count Primes</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-May-Challenge-2021/blob/main/Count%20Primes"><img src="https://d1e4pidl3fu268.cloudfront.net/3b29f3d1-0a11-4618-a0e5-45e8914593e8/PrimeNumbersYear61.JPG" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
