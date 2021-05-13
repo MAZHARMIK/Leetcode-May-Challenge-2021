@@ -81,5 +81,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/may-le
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Range%20Sum%20Query%202D%20-%20Immutable"><img src="https://i1.wp.com/beatexcel.com/wp-content/uploads/2014/05/Quick-Cumulative-Sum-thumb.jpg?resize=413%2C163" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Ambiguous Coordinates</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-May-Challenge-2021/blob/main/Ambiguous_Coordinates.cpp"><img src="https://3.bp.blogspot.com/_y4dSAQjuyWM/TID3pGyMGAI/AAAAAAAAAH4/6R9qhNhcT6k/s1600/3,0.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
