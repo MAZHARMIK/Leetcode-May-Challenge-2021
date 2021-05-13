@@ -76,5 +76,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/may-le
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Sliding%20Window/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards"><img src="https://miro.medium.com/max/3782/1*3Y6gzLD6FokUK36OU0LKHQ.jpeg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Range Sum Query 2D - Immutable</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Range%20Sum%20Query%202D%20-%20Immutable"><img src="https://i1.wp.com/beatexcel.com/wp-content/uploads/2014/05/Quick-Cumulative-Sum-thumb.jpg?resize=413%2C163" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
