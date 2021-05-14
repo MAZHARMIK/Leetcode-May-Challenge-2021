@@ -86,5 +86,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/may-le
         <td><a href="https://github.com/MAZHARMIK/Leetcode-May-Challenge-2021/blob/main/Ambiguous_Coordinates.cpp"><img src="https://3.bp.blogspot.com/_y4dSAQjuyWM/TID3pGyMGAI/AAAAAAAAAH4/6R9qhNhcT6k/s1600/3,0.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Flatten Binary Tree to Linked List</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Flatten%20Binary%20Tree%20to%20Linked%20List%20(2%20approaches)"><img src="https://static.javatpoint.com/ds/images/binary-tree1.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
