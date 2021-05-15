@@ -1,0 +1,90 @@
+class Solution {
+public:
+    bool isInteger(string s) {
+        if(s.empty())
+            return false;
+        
+        //1. (Optional) A sign character (either '+' or '-').
+        if(s[0] == '+' || s[0] == '-')
+            s = s.substr(1);
+        
+        int n = s.length();
+        if(n == 0)
+            return false;
+
+        //2. At least one digit.
+        for(int i = 0; i<n; i++) {
+            //since, e or E are filtered now. If we get any alpha char, we return false
+            if(s[i] >= '0' && s[i] <= '9')
+                continue;
+            return false;
+        }
+        return true;
+    }
+    
+    bool isDecimal(string s) {
+        if(s.empty())
+            return false;
+        
+        //1. (Optional) A sign character (either '+' or '-').
+        if(s[0] == '+' || s[0] == '-')
+            s = s.substr(1);
+        
+        int cntDot = 0;
+        int idxDot = -1;
+        int n = s.length();
+        for(int i = 0; i<n; i++) {
+            if(s[i] == '.') {
+                cntDot++;
+                idxDot = i;
+            }
+        }
+        
+        if(cntDot > 1)
+            return false;
+        if(cntDot) {
+            //2. At least one digit, followed by a dot '.', followed by at least one digit.
+            for(int i = 0; i<idxDot; i++) {
+                if(s[i] >= '0' && s[i] <= '9')
+                    continue;
+                return false;
+            }
+            //3. A dot '.', followed by at least one digit.
+            for(int i = idxDot+1; i<n; i++) {
+                if(s[i] >= '0' && s[i] <= '9')
+                    continue;
+                return false;
+            }
+            return s.length() > 1; //1 char is dot already
+        }
+        
+        return false;
+    }
+    
+    bool isNumber(string s) {
+        /*
+            A decimal number or an integer.
+            (Optional) An 'e' or 'E', followed by an integer.
+        */
+        int cntE = 0;
+        int eIdx = -1;
+        for(int i = 0; i<s.length(); i++) {
+            if(s[i] == 'e' || s[i] == 'E') {
+                cntE++;
+                eIdx = i;
+            }
+        }
+        if(cntE > 1)
+            return false;
+        
+        if(cntE) {
+            //An 'e' or 'E', shold be followed by an integer.
+            if(!isInteger(s.substr(eIdx+1)))
+                return false;
+            //Decimal or Integer component
+            s = s.substr(0, eIdx);
+        }
+        
+        return isInteger(s) || isDecimal(s);
+    }
+};
