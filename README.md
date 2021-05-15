@@ -93,12 +93,12 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/may-le
 			</tr>
 			<tr>
 			  <td>Minimum Knight Moves</td>
-        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Minimum%20Knight%20Moves"><img src="https://cdn2.vectorstock.com/i/1000x1000/05/36/valid-rubber-stamp-vector-12410536.jpg" width="400" height="240"></a>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Minimum%20Knight%20Moves"><img src="https://chesssmarts.com/wp-content/uploads/2019/03/Knight-1.png" width="400" height="240"></a>
 			  </td>
 			</tr>
 			<tr>
 			  <td>Valid Number</td>
-        <td><a href="https://github.com/MAZHARMIK/Leetcode-May-Challenge-2021/blob/main/Valid%20Number"><img src="https://chesssmarts.com/wp-content/uploads/2019/03/Knight-1.png" width="400" height="240"></a>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-May-Challenge-2021/blob/main/Valid%20Number"><img src="https://cdn2.vectorstock.com/i/1000x1000/05/36/valid-rubber-stamp-vector-12410536.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
 		</tbody>
