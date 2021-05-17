@@ -101,5 +101,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/may-le
         <td><a href="https://github.com/MAZHARMIK/Leetcode-May-Challenge-2021/blob/main/Valid%20Number"><img src="https://cdn2.vectorstock.com/i/1000x1000/05/36/valid-rubber-stamp-vector-12410536.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Longest String Chain</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/README.md"><img src="https://www.berkeleypoint.com/products/cord/parts/industrial_chain_b.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
