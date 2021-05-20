@@ -111,5 +111,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/may-le
         <td><a href="https://github.com/MAZHARMIK/Leetcode-May-Challenge-2021/blob/main/Minimum_Moves_to_Equal_Array_Elements_II.cpp"><img src="https://quotefancy.com/media/wallpaper/3840x2160/2035322-Rumi-Quote-The-middle-path-is-the-way-to-wisdom.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Binary Tree Level Order Traversal</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-May-Challenge-2021/blob/main/Binary_Tree_Level_Order_Traversal.cpp"><img src="https://algorithms.tutorialhorizon.com/files/2014/09/Level-Order-Traversal-Print-each-level-in-one-line.1.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
