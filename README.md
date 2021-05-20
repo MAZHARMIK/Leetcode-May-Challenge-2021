@@ -103,7 +103,7 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/may-le
 			</tr>
 			<tr>
 			  <td>Longest String Chain</td>
-        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/README.md"><img src="https://www.berkeleypoint.com/products/cord/parts/industrial_chain_b.jpg" width="400" height="240"></a>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Longest%20String%20Chain"><img src="https://www.berkeleypoint.com/products/cord/parts/industrial_chain_b.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
 			<tr>
