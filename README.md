@@ -106,5 +106,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/may-le
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/README.md"><img src="https://www.berkeleypoint.com/products/cord/parts/industrial_chain_b.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Longest String Chain</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-May-Challenge-2021/blob/main/Minimum_Moves_to_Equal_Array_Elements_II.cpp"><img src="https://quotefancy.com/media/wallpaper/3840x2160/2035322-Rumi-Quote-The-middle-path-is-the-way-to-wisdom.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
