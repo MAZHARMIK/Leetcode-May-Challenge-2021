@@ -118,7 +118,7 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/may-le
 			</tr>
 			<tr>
 			  <td>Find and Replace Pattern</td>
-        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/HashMap/Find_and_Replace_Pattern.cpp"><img src="https://algorithms.tutorialhorizon.com/files/2014/09/Level-Order-Traversal-Print-each-level-in-one-line.1.png" width="400" height="240"></a>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/HashMap/Find_and_Replace_Pattern.cpp"><img src="https://s3-eu-west-1.amazonaws.com/www.voxxed/2017/09/PatternMatching.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
 		</tbody>
