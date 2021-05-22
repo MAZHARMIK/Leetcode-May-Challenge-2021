@@ -122,7 +122,12 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/may-le
 			  </td>
 			</tr>
 			<tr>
-			  <td>Find and Replace Pattern</td>
+			  <td>Design Tic-Tac-Toe</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Design/Design%20Tic-Tac-Toe.cpp"><img src="https://www.clipartkey.com/mpngs/m/110-1100210_tic-tac-toe-png.png" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
+			  <td>N-Queens</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/N-Queens.cpp"><img src="https://rosettacode.org/mw/images/b/bd/N_queens_problem.png" width="400" height="240"></a>
 			  </td>
 			</tr>
