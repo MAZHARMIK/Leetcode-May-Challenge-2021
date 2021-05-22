@@ -121,5 +121,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/may-le
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/HashMap/Find_and_Replace_Pattern.cpp"><img src="https://s3-eu-west-1.amazonaws.com/www.voxxed/2017/09/PatternMatching.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Find and Replace Pattern</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/N-Queens.cpp"><img src="https://rosettacode.org/mw/images/b/bd/N_queens_problem.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
