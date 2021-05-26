@@ -146,5 +146,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/may-le
         <td><a href="https://github.com/MAZHARMIK/Leetcode-May-Challenge-2021/blob/main/Evaluate_Reverse_Polish_Notation.cpp"><img src="https://clipartion.com/wp-content/uploads/2015/11/tall-stack-of-books-clip-art-free-clipart-images.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Partitioning Into Minimum Number Of Deci-Binary Numbers</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers"><img src="https://clipground.com/images/binary-clipart-6.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
