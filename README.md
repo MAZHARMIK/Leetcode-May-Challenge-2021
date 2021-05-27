@@ -151,5 +151,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/may-le
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers"><img src="https://clipground.com/images/binary-clipart-6.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Maximum Product of Word Lengths</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Bit_Magic/Maximum_Product_of_Word_Lengths.cpp"><img src="https://knowthecode.io/wp-content/uploads/2016/10/CS_0100_Understanding_How_a_Computer_Works__1__key9.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
