@@ -161,5 +161,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/may-le
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Maximum_Erasure_Value.cpp"><img src="https://miro.medium.com/max/4324/1*mQJiROyKoPVSi_459LbXMA.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Minimum Cost to Connect Sticks</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Heap/Minimum%20Cost%20to%20Connect%20Sticks"><img src="https://cdn.pixabay.com/photo/2014/12/22/00/08/sand-576878_960_720.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
