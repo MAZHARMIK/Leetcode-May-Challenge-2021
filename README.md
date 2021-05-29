@@ -166,5 +166,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/may-le
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Heap/Minimum%20Cost%20to%20Connect%20Sticks"><img src="https://cdn.pixabay.com/photo/2014/12/22/00/08/sand-576878_960_720.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>N-Queens II</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/N-Queens_II.cpp"><img src="https://rosettacode.org/mw/images/b/bd/N_queens_problem.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
