@@ -171,5 +171,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/may-le
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/N-Queens_II.cpp"><img src="https://rosettacode.org/mw/images/b/bd/N_queens_problem.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Maximum Gap</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Maximum_Gap.cpp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bucket_sort_1.svg/1200px-Bucket_sort_1.svg.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
