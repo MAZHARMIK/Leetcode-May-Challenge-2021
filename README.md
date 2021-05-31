@@ -176,5 +176,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/may-le
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Maximum_Gap.cpp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bucket_sort_1.svg/1200px-Bucket_sort_1.svg.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Search Suggestions System</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Design/Search_Suggestions_System.cpp"><img src="https://images2.minutemediacdn.com/image/upload/c_crop,h_946,w_1682,x_147,y_0/v1554744011/shape/mentalfloss/65208-screenshot_google.png?itok=u6uwvATd" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
